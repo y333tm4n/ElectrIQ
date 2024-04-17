@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906821912387",
+    "project_id": "electriq-9f40b",
+    "storage_bucket": "electriq-9f40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906821912387:android:42a3f669ce52454b3f91f6",
+        "android_client_info": {
+          "package_name": "com.mycompany.electrik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQz1XC63DnoeU2YRrJyZpWWD-uPslxdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
