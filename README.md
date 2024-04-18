@@ -3,7 +3,7 @@
 ElectrIQ is a mobile application designed to empower Filipino consumers to make informed decisions when purchasing home appliances. By providing a platform for easy comparison and access to valuable data. Furthermore, ElectrIQ aims to guide users towards energy-efficient appliances, lowering their long-term electricity bills. As well as equipping consumers with the knowledge to compare brands, models, and their associated operating costs.
 
 ## Features
-**1. User-Centric Comparison (Main Feature):**
+**1. User-Centric Comparison (Main Working Feature):**
 
 - While existing solutions might offer basic appliance comparisons, ElectrIQ personalizes the experience. Users can define their comparison criteria beyond just brand and model. Imagine a young couple specifically looking for a refrigerator with high energy efficiency but also needing a spacious freezer for their growing family. ElectrIQ allows them to filter and compare based on these specific needs.
 
